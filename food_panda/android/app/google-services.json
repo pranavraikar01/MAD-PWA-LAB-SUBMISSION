@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726847533270",
+    "project_id": "fooddeliveryapppranav",
+    "storage_bucket": "fooddeliveryapppranav.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726847533270:android:f8faab0dba68351c9b1977",
+        "android_client_info": {
+          "package_name": "com.example.food_panda"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBftcoBEue-M8hQfcB-M-7ZAbhm_5PVmck"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
